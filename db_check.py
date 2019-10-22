@@ -33,5 +33,5 @@ def db_delete_field(user_id):
     conn.close()
 
 
-# db_delete_field(377188642)
+# db_delete_field(user_id)
 db_check()
