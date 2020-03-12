@@ -4,7 +4,7 @@ from action import start_menu, win, lose, draw, log, log_reset, see_score
 from lists import rand_rps, rand_emoji
 
 
-bot = TeleBot("980088298:AAGygISzDgEle6OvSuHdJ2Nv0vwLhK_CxVE")
+bot = TeleBot("Ваш API-токен бота")
 
 print(bot.get_me())
 
